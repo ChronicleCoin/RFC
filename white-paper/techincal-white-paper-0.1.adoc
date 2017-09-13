@@ -1,0 +1,104 @@
+= money eXCHange coin
+Peter Lawrey
+
+The eXCHange coin is designed to support high velocity financial transactions for
+
+- payments
+- exchange of one currency for another
+- fixed income or discounts on slow money
+- storage and retrieval of transaction history
+
+Each of these markets process trillions per day.
+
+Transactions are localised by;
+
+- general region for payments
+- currency for foreign exchange
+
+to speed up transactions in that location.
+Transactions between localisations,
+are federated to supports transaction globally.
+
+== Currency movement
+
+The currency has three broad objectives
+
+- utility across financial services
+- stability
+- transaction use consumes coins, providing an upward pressure on value.
+
+=== Currency Utility
+
+The eXCHange coin is look to support a number of segments
+and be an interchangeable coin between them.
+In some ways, they will be like existing coins which specialise in particular types of transactions.
+
+- payments (Bitcoin)
+- foreign exchange (Ripple)
+- a platform for building new services (Etherium)
+- transaction storage and retrieval (filecoin)
+
+As coins are designed to be deflationary, they all can provide a return,
+however the eXCHange coin would be designed to explicitly support "slow money"
+where account holders can buy money at a discount provided it is held
+for a short period of time.
+
+== Federated stake holders
+
+To improve throughput and reduce latency, these systems will be divided into regions in a federated model.
+
+=== Multiple independent regions
+
+Some regions will be predefined, such as Europe, Central Asia, or South America.
+Transactions within a region are agreed there and don't need to be shared globally.
+This reduces time to consensus, as well as increasing scalability.
+
+When a transaction is across regions, only those two regions are involved.
+If someone in Brazil wants to send money to China, only those regions are involved.
+
+== Central bank
+
+There are number of functions that a central bank usually performs to improve
+the stability and quality of a coin. However, in a decentralised model all the stake holders
+participate in setting
+
+- fees for international payments
+- the opening price and number of new issues coins
+- the limit on reserved coins
+- issuing future coins
+
+=== Money fragmentation and limiting supply
+
+As coins are divided again and again they become of smaller value and more numerous. They never the less use the same capacity in terms of bytes placing ever increasing strain on bandwidth and storage.
+
+Also if the supply of coins is too high, this reduces it's value leading to inflation.
+
+To solve both of these issues, the number of coins, both current and those for future issue, held by the central bank will be limited
+with the smallest coins being destroyed first.
+
+There will be a special transfer to void to destroy coins.
+
+=== Slow money
+
+Each coin is dated with a year from which it is usable.
+Coins issued for future years can be bought on a dedicated global market
+at a discount. As as they approach the year for issue, they approach parity
+and ultimately become a regular coin.
+
+There could also be restrictions on how quickly these coins can be resold.
+
+e.g. a 2019 1K coin might be bought for 930 coins at the start of 2018,
+and a 2020 1K coin might be bought for 845 coins.
+
+== Currency stabilisation
+
+A currency needs to take stability for people to feel comfortable holding it for any length of time.
+To improve stability a number of measures are proposed.
+
+==== Upward pressure
+
+- limiting how many coins are held in reserve and destroying.
+- buying back a limited number coins if the coins drops below 3% of the weekly open.
+- coins are consumed as fees.
+
+

@@ -27,9 +27,11 @@ This ledger supports multiple transaction types including
 
 == Security Issues
 
-== Tree distibution model
+== Tree distribution model
 
 === Regions and sub-regions
+
+Messages are either matched within a region or distributed across multiple regions.
 
 === Multiple points of access
 
