@@ -82,7 +82,7 @@ There will be a special transfer to void to destroy coins.
 
 Each coin is dated with a year from which it is usable.
 Coins issued for future years can be bought on a dedicated global market
-at a discount. As as they approach the year for issue, they approach parity
+at a discount. As they approach the year for issue, they approach parity
 and ultimately become a regular coin.
 
 There could also be restrictions on how quickly these coins can be resold.
