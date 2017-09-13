@@ -22,28 +22,9 @@ This ledger supports multiple transaction types including
 - transfer of coins (1000 units), notes (1000 coins)
 - exchange of currencies for notes. e.h. EUR, XBT, 
 
+=== Techincal Details
 
-== Implementations
-
-== Security Issues
-
-== Tree distribution model
-
-=== Regions and sub-regions
-
-Messages are either matched within a region or distributed across multiple regions.
-
-=== Multiple points of access
-
-=== Routing rules and fees
-
-== Charging models
-
-== Protocol
-
-== Reference Impliementation
-
-== 
+https://github.com/ChronicleCoin/RFC/blob/master/white-paper/techincal-white-paper-0.1.adoc
 
 === References
 
