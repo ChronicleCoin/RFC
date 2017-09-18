@@ -131,7 +131,7 @@ Once the stake holders are agreed, the measures and the fees have reached concen
 - stake holders offer to buy at the weekly openning price minus the stability percentage e.g. 2.5%
 - they can sell new XCH at 2.5% above the openning, up to the size of their stake.
 
-NOTE: The can only sell new coins if the market goes up, and they can lose an equal amount of money if it falls.
+NOTE: The can only sell new coins up to the value of their stake if the market goes up significantly, and they can lose an equal amount of money if it falls.
 
 This is intended to be a zero-sum-gain except stake holders also get a share of the fees, in proportion to their stake.
 
