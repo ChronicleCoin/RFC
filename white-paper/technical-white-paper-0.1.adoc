@@ -6,6 +6,7 @@ The eXCHange coin is designed to support high velocity financial transactions fo
 - payments
 - exchange of one currency for another
 - fixed income or discounts on slow money
+- virtualised currencies
 - storage and retrieval of transaction history
 
 Each of these markets process trillions per day.
