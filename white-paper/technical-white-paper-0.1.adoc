@@ -98,8 +98,40 @@ To improve stability a number of measures are proposed.
 
 ==== Upward pressure
 
+Crypto-currencies are know for their deflationary characteristics
+
 - limiting how many coins are held in reserve and destroying.
 - buying back a limited number coins if the coins drops below 3% of the weekly open.
 - coins are consumed as fees.
 
+==== Ways to avoid currency stavation
+
+If the number of coins are too long, or the fragmentation is too high, this could cause a loss of confience in the future of the tokens.
+
+- Support coins rolled out in future years, e.g. 2019, 2020, 2021 in a limited manner so stakeholders can see the extent of the money supply.
+- allow stakeholders who risk losing money if the market falls, to make the same amount if it rises (and *only* if it rises by a predetermined amount)
+
+=== Market Stake Holders
+
+In each weekly cycle, stake holders can put forward tokens as security which gives them
+
+- proportional voting rights, on fees and stability measures.
+- acts as a buffer when the market falls.
+- is an euqal opportunity to make money should the market rise.
+
+For example, say we have 50 market stake holders each putting an average of $1000 for the XCH/USD market.
+
+In the week before the cycle, stake holders agree by weighted concensus,
+
+- the point at which stability measures apply .e.g a 2.5% rise or fall.
+- the transaction fee, per transaction, per byte, as a percentage of value.
+
+Once the stake holders are agreed, the measures and the fees have reached concensus, in the following week;
+
+- stake holders offer to buy at the weekly openning price minus the stability percentage e.g. 2.5%
+- they can sell new XCH at 2.5% above the openning, up to the size of their stake.
+
+NOTE: The can only sell new coins if the market goes up, and they can lose an equal amount of money if it falls.
+
+This is intended to be a zero-sum-gain except stake holders also get a share of the fees, in proportion to their stake.
 
